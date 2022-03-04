@@ -27,6 +27,12 @@ Prufugeymsla fyrri skólan
 1. item 2
     1. subitem 1
     1. subitem 2
+    1. subitem 2
+    1. subitem 2
+    1. subitem 2
+    1. subitem 2
+    1. subitem 2
+    1. subitem 2
 
 >tafla
 
