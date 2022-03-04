@@ -2,17 +2,25 @@
 
 Prufugeymsla fyrri skólan
 
+1. [Tilvísun](#tilvísun)
+1. [Listar](#listar)
+1. [Listar](#listar)
+    1. [Óraðaður listi](#óraðaður-listi)
+    1. [Raðaður listi](#raðaður-listi)
+1. [Fína Taflan](#raðaður-listi)
+1. [Annað](#link-og-kóði-og-eih)
+
+
 ! [mynd af eih](eih.png)
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
+## Tilvísun
 
 > Hér kemur tilvísun í einhvern merkan texta
 
->bulletin listi
+
+## Listar
+
+### óraðaður listi
 
 - item 1
 - item 2
@@ -21,7 +29,7 @@ Prufugeymsla fyrri skólan
         - subsubitem 1
 - item 3
 
->Listi
+### Raðaður Listi
 
 1. item 1
 1. item 2
@@ -34,7 +42,7 @@ Prufugeymsla fyrri skólan
     1. subitem 2
     1. subitem 2
 
->tafla
+## Tafla
 
 Haus 1 | Haus 2 | Haus 3
 :---: | --- | ---:
@@ -42,6 +50,25 @@ Haus 1 | Haus 2 | Haus 3
 38 | 24 | 8
 BJartur | Kobe | Kobe
 
->Link
+## Link og kóði og eih
 
 [Hér](https://tskoli.is) er heimasíða tækniskólans
+
+>kóði í arduino
+
+```arduino
+void setup() {
+    Serial.begin(9600);
+    Serial.println("hello");
+}
+```
+>bold, skaletur, etc
+
+**Bold texti *skaletrað* \*stjarna**
+
+*Skáletrað*
+
+~~Gegnumstrikað~~
+
+<!-- texti til að fela -->
+
